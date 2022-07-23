@@ -1,0 +1,13 @@
+@import url(./_facebook/footer__column-link_facebook.css);
+@import url(./_inst/footer__column-link_inst.css);
+@import url(./_vk/footer__column-link_vk.css);
+
+.footer__column-link {
+    text-decoration: none;
+    color: #f2f2f2;
+    padding-right: 0;
+    height: 16px;
+    line-height: 18px;
+    font-size: 18px;
+}
+

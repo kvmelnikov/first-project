@@ -1,0 +1,12 @@
+.footer__social-icon{
+  list-style: none;
+  margin-top: 20px;
+  margin-bottom: 6px;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.footer__social-icon li {
+  margin-bottom: 10px;
+}
